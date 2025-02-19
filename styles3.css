@@ -1,0 +1,9 @@
+h1, p, button {
+    color: darkblue;
+    font-family: Arial, sans-serif;
+}
+
+button {
+    background-color: orange;
+    color: white;
+}
