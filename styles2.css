@@ -1,0 +1,11 @@
+<html >
+<head>
+    <title>Class & ID Selectors</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1 id="special">This is a Special Heading</h1>
+    <p class="highlight">This paragraph is bold and red.</p>
+    <p>This paragraph has no special styles.</p>
+</body>
+</html>
